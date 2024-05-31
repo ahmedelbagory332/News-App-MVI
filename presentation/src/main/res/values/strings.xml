@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="must_select_3_categories_and_1_country">must select 3 Categories and 1 country</string>
+    <string name="get_started">Get Started</string>
+    <string name="choose_your_favorite_categories">Choose your favorite categories:</string>
+    <string name="choose_your_favorite_country">Choose your favorite country:</string>
+    <string name="loading">Loading...</string>
+    <string name="your_category">"Your Category : "</string>
+    <string name="head_lines">Head Lines</string>
+    <string name="there_is_no_description_click_and_open_article">there is no description,click and open article</string>
+    <string name="favorites_articles">Favorites Articles</string>
+    <string name="search_on_articles">Search On Articles</string>
+    <string name="enter_article_name">Enter article name</string>
+    <string name="must_search_first">must search first</string>
+</resources>

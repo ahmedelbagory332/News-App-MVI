@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="must_select_3_categories_and_1_country">يجب ان تختار ثلاث اقسام و بلدة واحدة</string>
+    <string name="get_started">أبدا</string>
+    <string name="choose_your_favorite_categories">اختر الفئات المفضلة لديك:</string>
+    <string name="choose_your_favorite_country">اختر بلدك المفضل:</string>
+    <string name="loading">جاري التحميل...</string>
+    <string name="your_category">"فئاتك المفضله : "</string>
+    <string name="head_lines">العناوين الرئيسية</string>
+    <string name="there_is_no_description_click_and_open_article">لا يوجد وصف، انقر و أفتح المقالة</string>
+    <string name="favorites_articles">المقالات المفضله</string>
+    <string name="search_on_articles">ابحث عن مقالات</string>
+    <string name="enter_article_name">اكتب اسم المقالة</string>
+    <string name="must_search_first">يجب عليك البحث اولا</string>
+</resources>
